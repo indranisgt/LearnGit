@@ -43,6 +43,7 @@ public class HomePage extends base{
 		log.info(text);
 		
 		lp.getLogin().click();
+		System.out.println("logged in!!!!!!!!!!!!!!!!!!!!!!!!");
 		
 		}
 
